@@ -1,7 +1,5 @@
 # Design of a Three-Phase AC Measurement System using LabVIEW & Arduino
 
-This repository contains a complete Computer-Aided Data Acquisition (CADA) system designed to measure, visualize, and analyze three-phase Alternating Current (AC) signals in real-time. 
-
 The project leverages an **Arduino Mega 2560** for hardware interfacing and **LabVIEW 2020** for advanced graphical data processing and visualization.
 
 ## 📋 Project Overview
